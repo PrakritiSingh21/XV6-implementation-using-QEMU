@@ -4,7 +4,7 @@ XV6 is an operating system developed by MIT for the exact same purpose. It is an
 XV6 is a modern re-implementation of UNIX. It is basically functioning like a parallel OS compiler in which we can new system calls can be identified.
 This implementation of the project will contain running xv6 in Qemu emulator and adding some system calls to the XV6.
 
-#Instructions
+# Instructions
 
 We are running xv6 operating system on a QEMU virtual machine simply on top of a 64-bit Ubuntu 18.06 LTS machine. We have to install some tools and packages on our Ubuntu Linux system as follows:
 sudoapt-getupdate
